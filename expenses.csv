@@ -1,0 +1,8 @@
+record_type,date,amount,category,place
+initial_change,05.09.2025,1000000.00,,
+initial_change,05.09.2025,1000000.00,,
+expense,04.09.2025,152.33,Food,Lidl
+expense,04.09.2025,99.20,Transport,Shell
+expense,04.09.2025,50.00,Utilities,Electricity
+expense,04.09.2025,5.99,Entertainment,Netflix
+expense,04.09.2025,200.00,Other,Parents
