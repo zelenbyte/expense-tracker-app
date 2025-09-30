@@ -4,6 +4,8 @@ A simple and interactive **Tkinter-based Budget Tracker** application to help yo
 
 ---
 
+<img src="Screenshot.png" alt="Screenshot">
+
 ## 📦 Features
 
 - ✅ Add, edit, and delete expense entries
@@ -106,3 +108,4 @@ If you encounter issues:
 - Make sure you're using a compatible version of Python.
 - Double-check that `tkcalendar` is installed.
 - Ensure you’re running from `main.py` in your local environment — not in an online interpreter.
+
